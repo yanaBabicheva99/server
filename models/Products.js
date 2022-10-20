@@ -48,7 +48,7 @@ const productSchema = new Schema({
     },
     delete: {
         type: Boolean,
-        default: ''
+        default: false
     },
 });
 
